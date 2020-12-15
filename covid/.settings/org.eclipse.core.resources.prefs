@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/doubles/mvcboard/commons/interceptor/AuthInterceptor.java=UTF-8
+encoding//src/main/java/com/doubles/mvcboard/user/controller/UserInfoController.java=UTF-8
+encoding//src/main/java/com/doubles/mvcboard/user/controller/UserLoginController.java=UTF-8
+encoding//src/main/java/com/doubles/mvcboard/user/controller/UserRegisterController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/home=UTF-8
